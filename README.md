@@ -5,4 +5,4 @@ python package for reddit api
 
 ## plotly 
 
-![Alt text](/plots/karmaibleedorange.png?raw=true )
+![Alt text](/plots/karmaibleedorange.png?raw=true "Karma Vis" )
