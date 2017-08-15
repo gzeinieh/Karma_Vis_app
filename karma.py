@@ -2,7 +2,7 @@ import praw
 import plotly.plotly as py
 import plotly.graph_objs as go
 import plotly
-plotly.tools.set_credentials_file(username='gzeinieh', api_key='bnrb5u3b30')
+plotly.tools.set_credentials_file(username='******', api_key='*********')
 
 
 user_agent = "yourappname:version (by /u/your reddit user name)"
